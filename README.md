@@ -1,5 +1,4 @@
-### Hi there 👋
 
-I'm Birdzhang
-
-![pic](https://pixel-profile.vercel.app/api/github-stats?username=0312birdzhang&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&theme=road_trip&theme=road_trip&color=%23ffffffFF)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=0312birdzhang)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=0312birdzhang&show_icons=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=0312birdzhang&layout=compact)
