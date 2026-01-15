@@ -2,4 +2,4 @@
 
 I'm Birdzhang
 
-![0312birdzhang's github stats](https://github-readme-stats.vercel.app/api?username=0312birdzhang&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0312birdzhang)
+![pic](https://pixel-profile.vercel.app/api/github-stats?username=0312birdzhang&screen_effect=false&theme=journey&hide=avatar&dithering=true)
